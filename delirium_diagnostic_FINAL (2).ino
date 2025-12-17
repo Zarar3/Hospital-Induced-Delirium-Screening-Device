@@ -1,25 +1,4 @@
 /*
- * Hospital Induced Delirium Diagnostic Device
- * COMPLETE VERSION - All Fixes and Improvements Included
- * 
- * FEATURES:
- * ✓ Compilation error fixed
- * ✓ Smooth color transitions (gentle on patients)
- * ✓ Randomized question bank (15 questions, asks 8)
- * ✓ Softer, calming colors
- * ✓ Patient-friendly interface
- * 
- * Hardware:
- * - Arduino UNO R4 Minima
- * - Grove Base Shield
- * - Grove LCD RGB Backlight (I2C)
- * - 2x Tactile Buttons (4-pin, on breadboard)
- * 
- * Wiring:
- * - LCD: I2C port on Grove Base Shield
- * - Button A: Pin 2 → GND (across breadboard gap)
- * - Button B: Pin 3 → GND (across breadboard gap)
- * 
  * Group 22: Zarar Khan, Arnav Shah, Justin Fang, Jasper Wong
  */
 
